@@ -49,7 +49,7 @@ void MySlideshow::notifyErrors(std::string action) const {
 void MySlideshow::openFolder(QWidget *qw) {
     QString path;
     path = QFileDialog::getExistingDirectory(qw, "Choose directory", getFolderPath()); //posso passare come ultimo parametro un "Option", tra cui quella di mostrare solo le cartelle.
-    // Il comportamento di default sarebbe mostrare anche i file ma su Windows non funge. daje
+    // Il comportamento di default sarebbe mostrare anche i file ma su Windows non funziona
     if(path != ""){
         setFolderPath(path);
         setPaths(path);
