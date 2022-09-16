@@ -1,4 +1,0 @@
-E:/EX-STORED-3/GIULIA/3-UNI/ANNOI/Laboratorio_di_programmazione/SlideshowProject/Slideshow/test/build-SlideshowTest-Desktop_x86_windows_msys_pe_32bit-Debug/CMakeFiles/slideshow.dir
-E:/EX-STORED-3/GIULIA/3-UNI/ANNOI/Laboratorio_di_programmazione/SlideshowProject/Slideshow/test/build-SlideshowTest-Desktop_x86_windows_msys_pe_32bit-Debug/CMakeFiles/edit_cache.dir
-E:/EX-STORED-3/GIULIA/3-UNI/ANNOI/Laboratorio_di_programmazione/SlideshowProject/Slideshow/test/build-SlideshowTest-Desktop_x86_windows_msys_pe_32bit-Debug/CMakeFiles/rebuild_cache.dir
-E:/EX-STORED-3/GIULIA/3-UNI/ANNOI/Laboratorio_di_programmazione/SlideshowProject/Slideshow/test/build-SlideshowTest-Desktop_x86_windows_msys_pe_32bit-Debug/CMakeFiles/slideshow_autogen.dir
